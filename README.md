@@ -1,7 +1,7 @@
 # emafzal
 # Hi, It's Muhammad Afzal ✋
 <!-- GitHub Profile Views Counter -->
-![](https://komarev.com/ghpvc/?username=your-github-em-afzal&color=brightgreen)
+![](https://komarev.com/ghpvc/?em-afzal=your-github-em-afzal&color=brightgreen)
 
 A passionate Full Stack Developer and DevOps Engineer with expertise in building, deploying, and scaling projects with cutting-edge technologies. I specialize in delivering end-to-end solutions **not in years, not in months, but in days**! 🚀
 
@@ -43,7 +43,7 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
 - ☁️ Experienced in deploying cloud infrastructure with AWS, Azure, and GCP
 - 📈 Proven ability to deliver high-quality, scalable solutions quickly
 <h3>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</h3>
-<a href="https://www.buymeacoffee.com/your_username" target="_blank">
+<a href="https://www.buymeacoffee.com/your_em-afzal" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 </a>
 
@@ -55,10 +55,23 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
 - [My Website](https://yourwebsite.com)
 
 ### GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?em-afzal=your-github-em-afzal&show_icons=true&theme=radical)
 
 ### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?em-afzal=your-github-em-afzal&layout=compact&theme=radical)
+
+
+
+
+
+<h3>My GitHub contributions summary</h3>
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=em-afzal&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?em-afzal=em-afzal&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 
 ---
 Let's build something amazing together! 🚀
