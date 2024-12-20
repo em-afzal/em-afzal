@@ -1,5 +1,7 @@
 # emafzal
 # Hi, It's Muhammad Afzal ✋
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=your-github-em-afzal&color=brightgreen)
 
 A passionate Full Stack Developer and DevOps Engineer with expertise in building, deploying, and scaling projects with cutting-edge technologies. I specialize in delivering end-to-end solutions **not in years, not in months, but in days**! 🚀
 
