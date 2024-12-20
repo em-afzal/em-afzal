@@ -20,6 +20,20 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
 #### Operating Systems:
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux&logoColor=white)
 
+<h3>When I code, I rely on</h3>
+<p>
+  <img alt="Generative AI" src="https://img.shields.io/badge/-Generative%20AI-00b0d9?style=flat-square&logo=openai&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img alt="GCP" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="DevOps" src="https://img.shields.io/badge/-DevOps-00A0B0?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/-CI/CD-6DB33F?style=flat-square&logo=gitlab&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="CloudFormation" src="https://img.shields.io/badge/-CloudFormation-FF9E00?style=flat-square&logo=aws&logoColor=white" />
+</p>
+
 ### Highlights:
 - 🌐 Full Stack expertise in **MERN** and **MEAN** stacks
 - ⚙️ Proficient in **DevOps** practices, including Docker, Kubernetes, and CI/CD pipelines
@@ -42,4 +56,6 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
 
 ---
 Let's build something amazing together! 🚀
+
+
 
