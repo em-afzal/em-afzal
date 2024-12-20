@@ -5,12 +5,17 @@
 
 A passionate Full Stack Developer and DevOps Engineer with expertise in building, deploying, and scaling projects with cutting-edge technologies. I specialize in delivering end-to-end solutions **not in years, not in months, but in days**! 🚀
 
+---
+
 ### Current Focus:
 - 🌟 **Generative AI:** Crafting intelligent, scalable AI models for real-world applications.
 - ☁️ **Cloud Computing:** Designing and deploying cloud solutions with AWS, Azure, and GCP.
 - 🔄 **DevOps:** Automating workflows, CI/CD pipelines, and infrastructure as code.
 
+---
+
 ### Technical Stack:
+
 #### Programming Languages and Frameworks:
 - **Frontend:** Angular, React, JavaScript, TypeScript, HTML, CSS, SCSS, Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js, Django, C#
@@ -22,7 +27,42 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
 #### Operating Systems:
 ![macOS](https://img.shields.io/badge/-macOS-black?logo=apple&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-blue?logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-yellow?logo=linux&logoColor=white)
 
-<h3>When I code, I rely on</h3>
+---
+
+### How to Reach Me:
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white) [LinkedIn Profile](https://www.linkedin.com/in/your-profile)
+- ![WhatsApp](https://img.shields.io/badge/-WhatsApp-green?logo=whatsapp&logoColor=white) [WhatsApp](https://wa.me/your-number)
+- ![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white) [Instagram](https://instagram.com/your-handle)
+- ![X (Twitter)](https://img.shields.io/badge/-Twitter-blue?logo=x-twitter&logoColor=white) [X (Twitter)](https://twitter.com/your-handle)
+- ![Website](https://img.shields.io/badge/-Website-black?logo=internet-explorer&logoColor=white) [My Website](https://yourwebsite.com)
+
+---
+
+### Highlights:
+- 🌐 Full Stack expertise in **MERN** and **MEAN** stacks
+- ⚙️ Proficient in **DevOps** practices, including Docker, Kubernetes, and CI/CD pipelines
+- 🤖 Skilled in **Generative AI** for creating innovative solutions
+- ☁️ Experienced in deploying cloud infrastructure with AWS, Azure, and GCP
+- 📈 Proven ability to deliver high-quality, scalable solutions quickly
+
+---
+
+### My GitHub Contributions Summary:
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com?user=em-afzal&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Stats -->
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=em-afzal&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+---
+
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=em-afzal&layout=compact&theme=radical)
+
+---
+
+### When I code, I rely on:
 <p>
   <img alt="Generative AI" src="https://img.shields.io/badge/-Generative%20AI-00b0d9?style=flat-square&logo=openai&logoColor=white" />
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -36,38 +76,13 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
   <img alt="CloudFormation" src="https://img.shields.io/badge/-CloudFormation-FF9E00?style=flat-square&logo=aws&logoColor=white" />
 </p>
 
-### Highlights:
-- 🌐 Full Stack expertise in **MERN** and **MEAN** stacks
-- ⚙️ Proficient in **DevOps** practices, including Docker, Kubernetes, and CI/CD pipelines
-- 🤖 Skilled in **Generative AI** for creating innovative solutions
-- ☁️ Experienced in deploying cloud infrastructure with AWS, Azure, and GCP
-- 📈 Proven ability to deliver high-quality, scalable solutions quickly
+---
 
-<h3>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</h3>
+### If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
 <a href="https://www.buymeacoffee.com/em-afzal" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
 </a>
 
-### How to Reach Me:
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [WhatsApp](https://wa.me/your-number)
-- [Instagram](https://instagram.com/your-handle)
-- [X (Twitter)](https://twitter.com/your-handle)
-- [My Website](https://yourwebsite.com)
-
-### GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=em-afzal&show_icons=true&theme=radical)
-
-### Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=em-afzal&layout=compact&theme=radical)
-
-<h3>My GitHub contributions summary</h3>
-
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=em-afzal&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
-<!-- GitHub Stats -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=em-afzal&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 ---
+
 Let's build something amazing together! 🚀
