@@ -42,6 +42,10 @@ A passionate Full Stack Developer and DevOps Engineer with expertise in building
 - 🤖 Skilled in **Generative AI** for creating innovative solutions
 - ☁️ Experienced in deploying cloud infrastructure with AWS, Azure, and GCP
 - 📈 Proven ability to deliver high-quality, scalable solutions quickly
+<h3>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</h3>
+<a href="https://www.buymeacoffee.com/your_username" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150">
+</a>
 
 ### How to Reach Me:
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
